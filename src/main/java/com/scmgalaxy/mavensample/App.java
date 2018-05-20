@@ -3,6 +3,8 @@ package com.scmgalaxy.mavensample;
 /**
  * Hello world!
  *
+ 
+ dfghm
  */
 public class App 
 {
